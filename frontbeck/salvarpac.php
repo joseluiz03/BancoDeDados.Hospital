@@ -13,6 +13,6 @@ $sql = mysqli_query($conexao, "INSERT INTO Paciente(NOME, NUM_CADASTRO, DATA_NAS
 VALUES ('$nome', '$cpf', $data, '$genero', '$diagnostico', '$responsavel' )");
 
 // Redireciona para o arquivo index.php
-header("Location: cadastro-r.php");
+header("Location: inicial.php");
 exit();
 ?>

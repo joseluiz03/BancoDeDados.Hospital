@@ -15,6 +15,6 @@ VALUES ('$nome', '$crm', '$telefone', '$especialidade', '$cpf', '$paciente' )");
 
 
 // Redireciona para o arquivo index.php
-header("Location: indexx.php");
+header("Location: inicial.php");
 exit();
 ?>
