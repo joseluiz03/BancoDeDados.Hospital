@@ -62,3 +62,6 @@ ALTER TABLE Consulta ADD CONSTRAINT FK_Consulta_2
     REFERENCES Medico (CRM)
     ON DELETE RESTRICT;
 ```
+### 🠖 Imagem front do site:
+    ![image](https://github.com/joseluiz03/BancoDeDados.Hospital/assets/116982553/87ab2235-d0ba-463a-bcc1-b1089db20ae2)
+
