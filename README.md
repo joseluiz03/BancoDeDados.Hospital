@@ -63,5 +63,5 @@ ALTER TABLE Consulta ADD CONSTRAINT FK_Consulta_2
     ON DELETE RESTRICT;
 ```
 ### 🠖 Imagem front do site:
-   ![image](https://github.com/joseluiz03/BancoDeDados.Hospital/assets/116982553/dd120d12-9225-422f-9d71-13b968f788a6)
+    ![image](https://github.com/joseluiz03/BancoDeDados.Hospital/assets/116982553/dd120d12-9225-422f-9d71-13b968f788a6)
 
