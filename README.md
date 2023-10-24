@@ -1,4 +1,13 @@
 # BancoDeDados.Hospital
+## Integrantes:
+- FELIPE BEZERRA FARIAS n°13
+- FRANCISCO EMERSON MARQUES ARAUJO n°16
+- GABRIEL LIMA SOARES OLIVEIRA n°21
+- GUSTAVO HENRIQUE PEREIRA ARAUJO n°24
+- JOSE LUIZ SOARES COSTA n°26
+- JOSUE SOARES TORRES NETO n°27
+- YGOR JOSE DE SOUZA RODRIGUES n°42
+
 
 ### 🠖 Exemplificação de imagem do *CONCEITO* do Banco de Dados (hosp):
 ![Texto alternativo da imagem](https://github.com/joseluiz03/BancoDeDados.Hospital/assets/116982553/dfea2e29-fe65-4a7a-a005-7c08d36ef6b4)
