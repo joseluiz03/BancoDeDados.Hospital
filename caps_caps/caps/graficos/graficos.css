@@ -1,0 +1,24 @@
+/* estilo.css */
+.back-button button {
+    background-color: #16c5ff;
+    color: white;
+    width: 125px;
+    border: none;
+    border-radius: 3rem;
+    padding: 15px 30px;
+    cursor: pointer;
+    transition: all 0.3s;
+    box-shadow: 0px 5px 15px rgba(0, 80, 213, 0.4);
+  }
+  
+  .back-button button a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .back-button button:hover {
+    background-color: #003fbc;
+    transform: scale(1.05);
+    box-shadow: 0px 8px 20px rgba(0, 80, 213, 0.6);
+  }
+  
