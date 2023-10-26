@@ -79,7 +79,7 @@ ALTER TABLE Consulta ADD CONSTRAINT FK_Consulta_2
 ### Imagem do front-cadastro Medico:
 ![image](https://github.com/joseluiz03/BancoDeDados.Hospital/assets/117037138/d6f3e965-76c7-46ee-bc1e-a98b6833cf6f)
 
-### Dados aarmazenados do cliente:
+### Dados armazenados do cliente:
 ![image](https://github.com/joseluiz03/BancoDeDados.Hospital/assets/117037138/7553094f-9a4a-41a9-b40c-6da2a2f50cb4)
 
 ``` sql
